@@ -10,7 +10,7 @@ import { MenuTitleComponent } from './components/menu-title/menu-title.component
   declarations: [
     AppComponent,
     MenuBarComponent,
-    MenuTitleComponent
+    MenuTitleComponent,
   ],
   imports: [
     BrowserModule,
