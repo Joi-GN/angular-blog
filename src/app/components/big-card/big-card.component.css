@@ -1,0 +1,16 @@
+.big-card {}
+
+.big-card__image {
+  height: 350px;
+  min-width: 100%;
+  width: 100%;
+}
+
+.big-card__title {
+  margin-block: 1rem;
+}
+
+.big-card__description {
+  color: grey;
+  line-height: 1.5;
+}
