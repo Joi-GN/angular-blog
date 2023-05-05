@@ -1,0 +1,12 @@
+@media screen and (min-width: 0) {
+  .container__nav-list {
+    justify-content: space-around;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .container__nav-list {
+    justify-content: center;
+    gap: 5rem;
+  }
+}
