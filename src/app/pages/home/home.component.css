@@ -1,0 +1,15 @@
+.container__cards {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.container__big-card {}
+
+.container__small-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 1rem;
+}

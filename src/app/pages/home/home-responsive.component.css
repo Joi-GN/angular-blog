@@ -1,0 +1,19 @@
+@media screen and (min-width: 0) {
+  .container__cards {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 680px) {
+  .container__cards {
+    flex-direction: row;
+  }
+  
+  .container__big-card {
+    width: 50%;
+  }
+  
+  .container__small-cards {
+    width: 30%;
+  }
+}
