@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 0) {
+  .title {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .title {
+    font-size: 5rem;
+  }
+}
