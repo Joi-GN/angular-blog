@@ -1,12 +1,9 @@
 .small-card__content {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 1rem;
 }
 
 .small-card__image {
-  height: 150px;
-  width: 200px;
+  width: 180px;
 }
-

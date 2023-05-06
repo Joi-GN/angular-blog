@@ -1,3 +1,7 @@
+:root {
+  --padding-value: 3rem;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,6 +12,10 @@ body {
   background-color: #191919;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  padding: var(--padding-value);
 }
 
 img {
@@ -22,4 +30,8 @@ a {
 
 a:hover {
   opacity: 0.5;
+}
+
+hr {
+  border: 1px dotted grey;
 }

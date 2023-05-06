@@ -1,4 +1,6 @@
 .title {
+  margin: 0;
+  padding: var(--padding-value);
   text-align: center;
   text-transform: uppercase;
 }

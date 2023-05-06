@@ -1,10 +1,7 @@
-.big-card {}
-
 .big-card__image {
-  height: 350px;
-  min-width: 100%;
+  max-height: 45vh;
   width: 100%;
-}
+} 
 
 .big-card__title {
   margin-block: 1rem;

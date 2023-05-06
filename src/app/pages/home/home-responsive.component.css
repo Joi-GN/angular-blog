@@ -1,19 +1,25 @@
 @media screen and (min-width: 0) {
-  .container__cards {
+  .container__main-cards {
     flex-direction: column;
+  }
+
+  .container__cards {
+    grid-template-columns: 1fr;
   }
 }
 
 @media screen and (min-width: 680px) {
-  .container__cards {
+  .container__main-cards {
     flex-direction: row;
   }
-  
-  .container__big-card {
-    width: 50%;
+
+  .container__cards {
+    grid-template-columns: 1fr 1fr;
   }
-  
-  .container__small-cards {
-    width: 30%;
+}
+
+@media screen and (min-width: 1366px) {
+  .container__cards {
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }

@@ -1,15 +1,24 @@
-.container__cards {
+.container__main-cards {
   display: flex;
-  justify-content: center;
   gap: 2rem;
-  padding: 2rem;
 }
 
-.container__big-card {}
+.container__big-card {
+  flex: 2;
+}
 
 .container__small-cards {
+  flex: 1;
   display: flex;
   flex-direction: column;
-  align-items: start;
+  justify-content: space-between;
   gap: 1rem;
+}
+
+.container__cards {
+  background-color: silver;
+  color: black;
+  display: grid;
+  gap: 2rem;
+  width: 100%;
 }
