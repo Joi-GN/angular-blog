@@ -1,23 +1,27 @@
-<section class="container__cards">
+<section class="container__main-cards container">
   <div class="container__big-card">
-    <app-big-card 
-      image="https://placekitten.com/g/600/350"
-      cardTitle="Nova funcionalidades do Angular"
-      cardDescription="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus."
+    <app-big-card
+      [id]="mainBigCardContent.id"
+      [image]="mainBigCardContent.image"
+      [cardTitle]="mainBigCardContent.title"
+      [cardDescription]="mainBigCardContent.description"
       ></app-big-card>
   </div>
   <div class="container__small-cards">
-    <app-small-card
-      image="https://placekitten.com/g/600/350"
-      cardTitle="Conheça o Angular 20!"
+    <div *ngFor="let post of mainSmallCardsContent | slice:1">
+      <app-small-card
+      [id]="post.id"
+      [image]="post.image"
+      [cardTitle]="post.title"
       ></app-small-card>
-    <app-small-card
-      image="https://placekitten.com/g/600/350"
-      cardTitle="O que são Observables?"
-      ></app-small-card>
-    <app-small-card
-      image="https://placekitten.com/g/600/350"
-      cardTitle="Tudo sobre diretivas"
-      ></app-small-card>
+      <hr>
+    </div>
   </div>
+</section>
+<section class="container__cards container">
+  <app-small-card *ngFor="let post of othersPosts"
+      [id]="post.id"
+      [image]="post.image"
+      [cardTitle]="post.title"
+      ></app-small-card>
 </section>
