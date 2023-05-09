@@ -8,7 +8,7 @@
       ></app-big-card>
   </div>
   <div class="container__small-cards">
-    <div *ngFor="let post of mainSmallCardsContent | slice:1">
+    <div *ngFor="let post of mainSmallCardsContent">
       <app-small-card
       [id]="post.id"
       [image]="post.image"

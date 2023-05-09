@@ -10,7 +10,7 @@ import { posts } from 'src/app/data/posts';
 export class HomeComponent {
 
   mainBigCardContent = posts[0];
-  mainSmallCardsContent = posts.slice(0, 4);
+  mainSmallCardsContent = posts.slice(1, 4);
   othersPosts = posts.splice(4, 6);
 
 }
