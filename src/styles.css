@@ -1,5 +1,7 @@
 :root {
   --padding-value: 3rem;
+  --dark-bg-color: #191919;
+  --light-bg-color: silver;
 }
 
 * {
@@ -9,7 +11,7 @@
 }
 
 body {
-  background-color: #191919;
+  background-color: var(--dark-bg-color);
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
