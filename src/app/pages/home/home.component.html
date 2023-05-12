@@ -19,9 +19,12 @@
   </div>
 </section>
 <section class="container__cards container">
-  <app-small-card *ngFor="let post of othersPosts"
-      [id]="post.id"
-      [image]="post.image"
-      [cardTitle]="post.title"
-      ></app-small-card>
+  <a *ngFor="let post of othersPosts" routerLink="post/{{post.id}}" >
+    <app-post-card 
+     [id]="post.id"
+     [image]="post.image"
+     [cardTitle]="post.title"
+     [cardDescription]="post.description"
+    ></app-post-card>
+  </a>
 </section>
