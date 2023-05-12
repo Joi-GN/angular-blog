@@ -1,0 +1,21 @@
+.container__post {
+  background-color: var(--light-bg-color);
+  color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.post__image {
+  height: 40vh;
+  width: 100%;
+}
+
+.post__title {
+  font-size: 2.5rem;
+}
+
+.post__content {
+  align-self: center;
+  width: 75%;
+}

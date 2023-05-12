@@ -1,1 +1,6 @@
-<p>post works!</p>
+<div class="container__post container">
+  <img class="post__image" [src]="post?.image">
+  <h2 class="post__title">{{post?.title}}</h2>
+  <hr class="post__separator">
+  <p class="post__content" *ngFor="let p of post?.content">{{p}}</p>
+</div>
