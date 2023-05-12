@@ -11,6 +11,6 @@ export class HomeComponent {
 
   mainBigCardContent = posts[0];
   mainSmallCardsContent = posts.slice(1, 4);
-  othersPosts = posts.splice(4, 6);
+  othersPosts = posts.slice(4, 10);
 
 }
