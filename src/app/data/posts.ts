@@ -4,7 +4,7 @@ export const posts: Post[] = [
   {
     "id": 1,
     "image": "https://placekitten.com/g/600/350",
-    "title": "Conheça o Angular 20! Venha conferir todas as novidades e ficar por dentro da nova versão",
+    "title": "Conheça o Angular 20! Venha conferir todas as novidades e fique por dentro da nova versão",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -56,7 +56,7 @@ export const posts: Post[] = [
   {
     "id": 5,
     "image": "https://placekitten.com/g/600/350",
-    "title": "O que são Observables?",
+    "title": "Conheça o Angular 20! Venha conferir todas as novidades e fique por dentro da nova versão",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -69,7 +69,7 @@ export const posts: Post[] = [
   {
     "id": 6,
     "image": "https://placekitten.com/g/600/350",
-    "title": "Tudo sobre diretivas",
+    "title": "O que são Observables?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -82,7 +82,7 @@ export const posts: Post[] = [
   {
     "id": 7,
     "image": "https://placekitten.com/g/600/350",
-    "title": "Conheça o Angular 19!",
+    "title": "Tudo sobre diretivas. Para que servem e como utilizar",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -95,7 +95,7 @@ export const posts: Post[] = [
   {
     "id": 8,
     "image": "https://placekitten.com/g/600/350",
-    "title": "O que são Observables?",
+    "title": "Conheça o Angular 20!",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -108,7 +108,7 @@ export const posts: Post[] = [
   {
     "id": 9,
     "image": "https://placekitten.com/g/600/350",
-    "title": "Tudo sobre diretivas",
+    "title": "Conheça o Angular 20! Venha conferir todas as novidades e fique por dentro da nova versão",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -121,7 +121,7 @@ export const posts: Post[] = [
   {
     "id": 10,
     "image": "https://placekitten.com/g/600/350",
-    "title": "Novas funcionalidades do Angular",
+    "title": "O que são Observables?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -134,7 +134,7 @@ export const posts: Post[] = [
   {
     "id": 11,
     "image": "https://placekitten.com/g/600/350",
-    "title": "Angular",
+    "title": "Tudo sobre diretivas. Para que servem e como utilizar",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
     "content": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
@@ -143,5 +143,18 @@ export const posts: Post[] = [
       "Nam neque lacus, condimentum nec ipsum vitae, congue interdum tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam ornare massa in mattis egestas. Sed purus nibh, volutpat et augue et, interdum sodales nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla eu ex gravida, consequat mauris ac, placerat turpis. Curabitur finibus enim vitae felis lacinia placerat. Quisque lacinia fringilla ex, sed vulputate lectus aliquam sed. Curabitur urna ex, pharetra eu porttitor vel, tempus vel metus. In ultricies dolor tortor, vitae efficitur odio ullamcorper a. Nulla vitae ornare purus. Fusce in nulla id sapien dignissim vehicula facilisis at augue. Vestibulum a sagittis nisi. Cras vel dolor libero.",
       "Donec mollis nisi quis dui maximus congue. Nulla tristique, metus nec tincidunt blandit, lectus ligula tempor lectus, in ornare erat arcu ut turpis. Aenean sit amet convallis eros. Suspendisse commodo ultricies pellentesque. Donec et rutrum ipsum, ut feugiat dolor. Donec at tempor magna. Sed vitae dictum orci, eu semper orci. Morbi sit amet laoreet nunc, nec vehicula nulla."
     ]
-  }
+  },
+  {
+    "id": 12,
+    "image": "https://placekitten.com/g/600/350",
+    "title": "Conheça o Angular 20!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium viverra cursus. Phasellus dapibus tincidunt commodo. Cras vel interdum quam, non commodo dolor. Nunc condimentum eu tellus quis posuere. Phasellus eget purus mi. Quisque nec luctus metus. Curabitur malesuada volutpat tempus.",
+    "content": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor viverra metus non finibus. Aenean gravida ultrices elit. Suspendisse sit amet pharetra sapien. Ut tristique tortor a est euismod elementum. Sed laoreet, ipsum in venenatis gravida, tellus velit hendrerit lorem, in iaculis magna mauris sit amet dolor. Curabitur ante nisi, volutpat id sodales sit amet, vehicula quis risus. Maecenas ultrices tincidunt tellus, eget iaculis diam bibendum eu. Sed venenatis orci at mi faucibus tempor.",
+      "Sed lobortis pellentesque augue. Praesent et arcu non neque bibendum vulputate. Ut feugiat tempus mollis. Vestibulum ultrices viverra eros sit amet semper. Donec ullamcorper placerat egestas. Nulla non ex sit amet ligula scelerisque semper. Duis sit amet imperdiet justo. Fusce in nulla felis. Nam in pellentesque magna. Suspendisse hendrerit feugiat libero ac suscipit. Nullam quis nulla imperdiet, tempus neque non, dignissim sapien.",
+      "Curabitur rhoncus mattis augue ac faucibus. Donec vitae placerat nulla. Duis rhoncus tellus suscipit turpis viverra egestas ac id ante. Pellentesque nunc ante, bibendum ut mi et, luctus vulputate tellus. Suspendisse mauris quam, euismod et eros non, consectetur cursus diam. Praesent nec mauris ornare, hendrerit nunc eu, luctus diam. Vivamus at ullamcorper nunc. Integer lacinia eleifend felis, id ultricies turpis sagittis ut.",
+      "Nam neque lacus, condimentum nec ipsum vitae, congue interdum tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam ornare massa in mattis egestas. Sed purus nibh, volutpat et augue et, interdum sodales nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla eu ex gravida, consequat mauris ac, placerat turpis. Curabitur finibus enim vitae felis lacinia placerat. Quisque lacinia fringilla ex, sed vulputate lectus aliquam sed. Curabitur urna ex, pharetra eu porttitor vel, tempus vel metus. In ultricies dolor tortor, vitae efficitur odio ullamcorper a. Nulla vitae ornare purus. Fusce in nulla id sapien dignissim vehicula facilisis at augue. Vestibulum a sagittis nisi. Cras vel dolor libero.",
+      "Donec mollis nisi quis dui maximus congue. Nulla tristique, metus nec tincidunt blandit, lectus ligula tempor lectus, in ornare erat arcu ut turpis. Aenean sit amet convallis eros. Suspendisse commodo ultricies pellentesque. Donec et rutrum ipsum, ut feugiat dolor. Donec at tempor magna. Sed vitae dictum orci, eu semper orci. Morbi sit amet laoreet nunc, nec vehicula nulla."
+    ]
+  }, 
 ]
